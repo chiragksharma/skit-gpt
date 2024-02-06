@@ -27,7 +27,7 @@ router = APIRouter()
 app_config = {
     "app": {
         "config": {
-            "id": "embedchain-opensource-app"
+            "id": "embedchain-demo-app"
         }
     },
     "llm": {
