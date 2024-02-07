@@ -31,7 +31,6 @@ embedchain_app.add('https://www.skit.ac.in/images/cs-files/cse_faculty_list_2022
 embedchain_app.add('https://www.skit.ac.in/faculty-ce.html', data_type='web_page')
 embedchain_app.add('https://www.skit.ac.in/examination-cell.html', data_type='web_page')
 embedchain_app.add('https://www.skit.ac.in/noticess.html',data_type='web_page')
-embedchain_app.add('api/data/Teacher.csv',data_type='csv')
 
 
 
