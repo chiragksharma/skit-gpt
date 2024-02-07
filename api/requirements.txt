@@ -1,6 +1,6 @@
 fastapi==0.104.0
 uvicorn==0.23.2
-embedchain
+embedchain == 0.1.75
 lxml
 beautifulsoup4
 duckduckgo-search
